@@ -1,7 +1,12 @@
-## Hi I'm Sarangan
+## Hi, I'm Sarangan 👋
 
-Frontend Developer with 4+ years building production-grade web apps.
+Fullstack developer, frontend-heavy — I live in the gap between clean UI and solid architecture.
 
-I specialise in React.js, Next.js, and TypeScript — shipping scalable SaaS products across e-commerce, logistics, and ERP domains. I care about component architecture, Core Web Vitals, and code that other developers actually enjoy working with.
+Years building production web apps across e-commerce, logistics, and ERP domains.
 
-Based in Düsseldorf 🇩🇪 · Authorized to work in Germany 
+I care about component architecture that scales, real-world performance, and code that other developers actually enjoy working with.
+
+---
+
+🌍 Based in Germany · Authorized to work in the EU
+📫 Open to fullstack roles
