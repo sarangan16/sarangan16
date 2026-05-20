@@ -1,8 +1,9 @@
 ## Hi, I'm Sarangan 👋
-<sub>Frontend-focused full stack developer building responsive, scalable, and user-friendly web applications.
-Experienced in modern JavaScript frameworks, UI development, API integration, and performance optimization.</sub>
+
+Frontend-focused developer building modern, responsive, and user-friendly web applications.
+
+Experienced with React, JavaScript/TypeScript, API integration, and scalable UI development. Passionate about clean design, performance optimization, and creating intuitive digital experiences.
 
 ---
 
-🌍 Based in Germany 
-📫 Open to fullstack roles
+Full Stack opportunities  
