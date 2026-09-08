@@ -1,9 +1,16 @@
-## Hi, I'm Sarangan 👋
+# Sarangan Sivamoorthy
 
-Frontend-focused developer building modern, responsive, and user-friendly web applications.
+Frontend Developer based in Düsseldorf, Germany.
+German Residence Permit holder — no sponsorship needed.
 
-Experienced with React, JavaScript/TypeScript, API integration, and scalable UI development. Passionate about clean design, performance optimization, and creating intuitive digital experiences.
+4+ years building React applications in production — dashboards, e-commerce, 
+SaaS platforms, ERP systems. I care about clean code and interfaces that 
+actually make sense to use.
 
----
+Currently building Zlockd, a WhatsApp booking SaaS for salons. 
+Registered business in Germany, live in Düsseldorf.
 
-Full Stack opportunities  
+Stack I work with: React, Next.js, TypeScript, TailwindCSS, Node.js, PostgreSQL
+
+Portfolio: sarangan16.github.io/sarangan
+Contact: mailsarangan@gmail.com
