@@ -7,7 +7,7 @@ German Residence Permit holder — no sponsorship needed.
 SaaS platforms, ERP systems. I care about clean code and interfaces that 
 actually make sense to use.
 
-Currently building Zlockd, a WhatsApp booking SaaS for salons. 
+Currently building Zlockd, a WhatsApp booking SaaS for salons or any kind of Appoinment bookings. www.zlockd.com
 Registered business in Germany, live in Düsseldorf.
 
 Stack I work with: React, Next.js, TypeScript, TailwindCSS, Node.js, PostgreSQL
