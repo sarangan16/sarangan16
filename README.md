@@ -12,5 +12,5 @@ Registered business in Germany, live in Düsseldorf.
 
 Stack I work with: React, Next.js, TypeScript, TailwindCSS, Node.js, PostgreSQL
 
-Portfolio: sarangan16.github.io/sarangan
-Contact: mailsarangan@gmail.com
+> Portfolio: www.sarangan16.github.io/sarangan
+> Contact: mailsarangan@gmail.com
